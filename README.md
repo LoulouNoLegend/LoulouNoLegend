@@ -21,9 +21,4 @@ Take a look if you want!
 - <a href="https://visualstudio.microsoft.com/vs/community/"><img alt="Visual Studio Community 2022" src="https://img.shields.io/badge/Visual%20Studio%20Community%202022-a175d9?logo=visual%20studio"></a> - C++
 - <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> - HTML, CSS & JS
 
-## 🏆 Favorite Projects I Worked On
-
-1. **Project 1** 🎯
-   - **Description**: Provide a brief description of the project.
-   - **Language(s) Used**: List the programming languages used in this project.
-   - **Link**: If applicable, provide a link to the project (e.g., GitHub repository).
+I have nothing else to put here at the moment ;p
