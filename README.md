@@ -1,6 +1,5 @@
-# 😎 Welcome to my page
-If ever you want some info about my programming life, well it's here.
-Take a look if you want!
+# 👋 Welcome to my Github!
+Here's a little summary of my programming knowledge and things like that.
 
 ## 📚 Programming Languages I Use
 
