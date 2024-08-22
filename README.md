@@ -13,7 +13,7 @@ I'm an apprentice developer trying to understand everything about the world or t
 
 ## 💻 What I use for my different projects
 
-- <a href="https://visualstudio.microsoft.com/vs/community/"><img alt="Visual Studio Community 2022" src="https://img.shields.io/badge/Visual%20Studio%20Community%202022-a175d9?logo=visual%20studio"></a>
+- <a href="https://visualstudio.microsoft.com/vs/community/"><img alt="Visual Studio Community" src="https://img.shields.io/badge/Visual%20Studio%20Community%202022-a175d9?logo=visual%20studio"></a>
 - <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 - <a href="https://www.unrealengine.com/en-US"><img alt="Static Badge" src="https://img.shields.io/badge/Unreal%20Engine-%23000000?logo=unrealengine"></a>
 - <a href="https://godotengine.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Godot%20Engine-white?logo=godotengine"></a>
