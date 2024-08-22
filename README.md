@@ -4,16 +4,14 @@ Here's a little summary of my programming knowledge and things like that.
 ## 📚 Programming Languages I Use
 
 ### For General Projects
-- <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-4183c4?logo=c%2B%2B&logoColor=white">
-- <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> (I'm bad with it, tbh)
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-4183c4?logo=c%2B%2B&logoColor=white">, <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 ### For Web-related Projects
-- <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-- <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">, <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">, <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
 
 ### Other
-- <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-%23458dc0?logo=godotengine&logoColor=white&link=https%3A%2F%2Fdocs.godotengine.org%2Fen%2Fstable%2Ftutorials%2Fscripting%2Fgdscript%2Findex.html">
+<img alt="GDScript" src="https://img.shields.io/badge/GDScript-%23458dc0?logo=godotengine&logoColor=white&link=https%3A%2F%2Fdocs.godotengine.org%2Fen%2Fstable%2Ftutorials%2Fscripting%2Fgdscript%2Findex.html">, <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%237b3399?logo=C&logoColor=white&link=https%3A%2F%2Fdocs.godotengine.org%2Fen%2Fstable%2Ftutorials%2Fscripting%2Fgdscript%2Findex.html">
+
 
 **NOTE:** I do know some C#, but simply because I modified some projects made with it and because C++ is similar in some ways.
 
