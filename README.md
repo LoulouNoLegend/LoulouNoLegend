@@ -13,7 +13,7 @@ Here's a little summary of my programming knowledge and things like that.
 - <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
 
 ### Other
-- <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-%23458dc0?logo=godotengine&logoColor=white&link=https%3A%2F%2Fdocs.godotengine.org%2Fen%2Fstable%2Ftutorials%2Fscripting%2Fgdscript%2Fgdscript_basics.html">
+- <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-%23458dc0?logo=godotengine&logoColor=white&link=https%3A%2F%2Fdocs.godotengine.org%2Fen%2Fstable%2Ftutorials%2Fscripting%2Fgdscript%2Findex.html">
 
 **NOTE:** I do know some C#, but simply because I modified some projects made with it and because C++ is similar in some ways.
 
