@@ -28,7 +28,7 @@ I'm an apprentice developer trying to understand everything about the world or t
 
   - [![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community%202022-a175d9?logo=visual%20studio)](https://visualstudio.microsoft.com/vs/community/)
   - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  - [![PhpStorm](https://img.shields.io/badge/PhpStorm-%23b54bf1?logo=phpstorm)
+  - ![PhpStorm](https://img.shields.io/badge/PhpStorm-%23b54bf1?logo=phpstorm)
 
 </details>
 
