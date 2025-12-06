@@ -1,6 +1,7 @@
 # 👋 Hello, I'm LoulouNoLegend!
 Aspiring developer exploring the world of programming, game creation, and software engineering.
 I love experimenting, building projects from scratch, and learning new technologies every day - from low-level assembly to full game engines.
+Maybe not the best to learn fast, but I still do my best!
 
 ---
 
