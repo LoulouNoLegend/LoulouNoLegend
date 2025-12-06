@@ -4,7 +4,7 @@ I love experimenting, building projects from scratch, and learning new technolog
 
 ---
 
-## 📚 Languages & Technologies
+## 📚 Programming Languages I use
 <details>
     <summary><b>⚙️ General Development</b></summary>
 Main Languages:
