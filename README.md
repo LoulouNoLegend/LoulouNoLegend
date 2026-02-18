@@ -1,7 +1,7 @@
-# 👋 Hello, I'm LoulouNoLegend!
-Aspiring developer exploring the world of programming, game creation, and software engineering.
-I love experimenting, building projects from scratch, and learning new technologies every day - from low-level assembly to full game engines.
-Maybe not the best to learn fast, but I still love coding!
+# Yosh, I'm LoulouNoLegend! *(Or just Lou/Loulou)*
+A guy coding games, mods and many other random things.
+I also love writing stories and universes..
+That's pretty much it.
 
 ---
 
@@ -43,7 +43,7 @@ Rarely used:
 <details>
   <summary><b>💻 IDEs</b></summary>
 
-  - [![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community%202022-a175d9?logo=visual%20studio)](https://visualstudio.microsoft.com/vs/community/)
+  - [![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community%202026-a175d9?logo=visual%20studio)](https://visualstudio.microsoft.com/vs/community/)
 
   - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 </details>
